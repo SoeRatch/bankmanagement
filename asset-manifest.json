@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bankmanagement/static/css/main.16a6d626.chunk.css",
+    "main.js": "/bankmanagement/static/js/main.cffc6162.chunk.js",
+    "main.js.map": "/bankmanagement/static/js/main.cffc6162.chunk.js.map",
+    "runtime~main.js": "/bankmanagement/static/js/runtime~main.4555ca32.js",
+    "runtime~main.js.map": "/bankmanagement/static/js/runtime~main.4555ca32.js.map",
+    "static/js/2.5408e437.chunk.js": "/bankmanagement/static/js/2.5408e437.chunk.js",
+    "static/js/2.5408e437.chunk.js.map": "/bankmanagement/static/js/2.5408e437.chunk.js.map",
+    "index.html": "/bankmanagement/index.html",
+    "precache-manifest.849723ac73df7a81687c33de3c8d1759.js": "/bankmanagement/precache-manifest.849723ac73df7a81687c33de3c8d1759.js",
+    "service-worker.js": "/bankmanagement/service-worker.js",
+    "static/css/main.16a6d626.chunk.css.map": "/bankmanagement/static/css/main.16a6d626.chunk.css.map"
+  }
+}
